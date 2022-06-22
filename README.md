@@ -1,3 +1,3 @@
 # web_dev
-HTML, CSS, JS courseworks
+HTML, CSS, JS course.
 
