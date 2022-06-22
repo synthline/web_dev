@@ -1,2 +1,3 @@
 # web_dev
-HTMlL, CSS, JS courseworks
+HTML, CSS, JS courseworks
+
